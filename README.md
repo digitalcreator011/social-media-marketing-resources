@@ -1,4 +1,4 @@
-# social-media-marketing-resources
+# social-media-marketing-course-indore
 A curated collection of social media marketing resources, learning guides, strategy templates, AI tools, and useful references for students, freelancers, and digital marketers.
 # 📱 Social Media Marketing Resources
 
