@@ -64,6 +64,7 @@ Whether you're a student, freelancer, entrepreneur, or marketing professional, t
 - Hootsuite
 - Notion
 - Trello
+- [Engagement-rate calculator (Slovenian)](https://nakupsladilcev.si/tools/engagement-rate) - Free manual calculation of (likes + comments) / followers, reach or views × 100, with no signup and a Slovenian interface.
 
 ---
 
